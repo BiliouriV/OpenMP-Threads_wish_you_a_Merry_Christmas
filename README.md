@@ -23,15 +23,9 @@ Max number of participating threads = 8
 
 and:
 
-Number of Threads
-Execution Time
-1
-0.0000081 s
-2
-0.0000277 s
-4
-0.0000951 s
-6
-0.0002103 s
-8
-0.0004920 s
+Number of Threads  Execution Time
+1                  0.0000081 s
+2                  0.0000277 s
+4                  0.0000951 s
+6                  0.0002103 s
+8                  0.0004920 s
