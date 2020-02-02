@@ -1,6 +1,7 @@
 # OPENMP-Threads_wish_you_a_Merry_Christmas
  
-Threads communication using OpenMP
+                                                                                           
+# Threads communication using OpenMP
 
 by Dimitrios Christodoulou, Viktoria Biliouri, Sotirios Karamellios
 
