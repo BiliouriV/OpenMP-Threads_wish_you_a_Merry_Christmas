@@ -7,7 +7,7 @@ by Dimitrios Christodoulou, Viktoria Biliouri, Sotirios Karamellios
 
 
 
-This program (whose code is presented below), implements parallel programming using OpenMp. Using the necessary functions, the program displays the message :
+This program implements parallel programming using OpenMp. Using the necessary functions, the program displays the message :
 
 << Merry Christmas  and a Happy New Year from Santa Claus. >>
 
