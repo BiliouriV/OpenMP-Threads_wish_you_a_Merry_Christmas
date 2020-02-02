@@ -23,8 +23,8 @@ Max number of participating threads = 8
 
 and:
 
-1 thread => Execution Time = 0.0000081 s          
-2 threads => Execution Time = 0.0000277 s
-4 threads => Execution Time = 0.0000951 s
-6 threads => Execution Time = 0.0002103 s
+1 thread => Execution Time = 0.0000081 s                                                                                                                                                                                                          
+2 threads => Execution Time = 0.0000277 s                                                                                                  
+4 threads => Execution Time = 0.0000951 s                                                                                                                                                                                                                                          
+6 threads => Execution Time = 0.0002103 s                                                                                                                                                                                                                                           
 8 threads => Execution Time = 0.0004920 s
