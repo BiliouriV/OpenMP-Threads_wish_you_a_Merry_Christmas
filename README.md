@@ -14,7 +14,7 @@ from the master thread. Next, the other threads display on the monitor, the mess
 
 << Merry Christmas from elf  *>>
 
-where * each thread's id.
+where * each thread's id.                                                                                                                                                                                                                                        
 Last, we print the number of the processors of the computer, the maximum number of threads,  the number of the threads that are used by the current program and the total execution time.
 The results that are shown in the specific machine that we used are:
 Number of processors = 1
