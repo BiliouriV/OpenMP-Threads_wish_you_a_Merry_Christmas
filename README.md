@@ -3,6 +3,8 @@
                                                                                            
 # Threads communication using OpenMP
 
+A little, fun exercise, suitable to wish u all a very happy Xmas period.
+
 by Dimitrios Christodoulou, Viktoria Biliouri, Sotirios Karamellios
 
 
